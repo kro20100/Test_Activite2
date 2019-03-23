@@ -1,0 +1,4 @@
+Pour executer le fichier code_hello.py, il suffit de lancer Python, puis dans la console, taper :
+	execfile("code_hello.py")
+
+Il est également possible d'appeler simplement l'exécutable avec le fichier en argument.
